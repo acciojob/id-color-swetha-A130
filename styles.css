@@ -1,16 +1,19 @@
 /*  your css code here. If applicable */
-.id{
-	background-color:green;
+
+#yellow {
+    background:yellow;
 	border-width:1px;
 	border-color:green;
 }
-.id{
-	background-color:red;
+#red{
+    background: red;
 	border-width:1px;
 	border-color:black;
 }
-.id{
-	background-color:green;
+
+#green{
+    background: 	green;
 	border-width:1px;
-	border-color:yellow;
+	border-color:	yellow;
 }
+
